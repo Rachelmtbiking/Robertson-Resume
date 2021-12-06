@@ -10,7 +10,7 @@ Student at BYU-I, Degree: Financial Economics, Minor: Data Science
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/135 37407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+</div> 
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
